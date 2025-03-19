@@ -1,6 +1,6 @@
 # R Language Basics 🌟🐍
 
-Welcome to the **R Language Basics** repository! 🌈✨ Dive into the world of **R programming** 🖥️, where data meets creativity and visualization gets fun 🎨📊.
+Welcome to the **R Language Basics** repository! ✨ Dive into the world of **R programming** 🖥️, where data meets creativity and visualization gets fun 🎨📊.
 
 ## 🚀 Table of Contents
 1. 🎉 **Introduction to R Language**
