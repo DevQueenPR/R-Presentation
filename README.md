@@ -35,4 +35,4 @@ This file covers an exciting range of R programming essentials:
 
 1. 🛠️ **Clone** this repository to your local machine:
    ```bash
-   git clone https://github.com/DevQueenPR/VRML.git
+   git clone https://github.com/DevQueenPR/R-Presentation.git
