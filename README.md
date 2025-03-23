@@ -36,3 +36,12 @@ This file covers an exciting range of R programming essentials:
 1. 🛠️ **Clone** this repository to your local machine:
    ```bash
    git clone https://github.com/DevQueenPR/R-Presentation.git
+
+
+## 🎨 Desarrolladores
+
+- ✨ **Génesis M. Ojeda**
+  - 🐙 **GitHub**: [DevQueenPR](https://github.com/DevQueenPR)  
+  - 💼 **LinkedIn**: [Génesis M. Ojeda](https://www.linkedin.com/in/g%C3%A9nesis-ojeda-451576302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+- 🌟 **Adier**
+---
